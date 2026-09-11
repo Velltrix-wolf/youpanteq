@@ -1,1 +1,1 @@
-# youpanteq
+# strings.jsom
