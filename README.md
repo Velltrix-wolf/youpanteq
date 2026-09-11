@@ -1,1 +1,1 @@
-# strings.jsom
+# youispante.json
